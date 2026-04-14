@@ -1,4 +1,4 @@
-# Territorial — Digital Sovereignty Scanner
+# SovereigntyMeter — Digital Sovereignty Meter
 
 Reveal the hidden geography of any website: who owns the infrastructure, where your data travels, and what it means — with a decolonial poem generated fresh for each scan.
 
